@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuickWord</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_word">Add word</string>
+	<string name="learn">Learn</string>
+	<string name="download">Download words</string>
+	
+</resources>

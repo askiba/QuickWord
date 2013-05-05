@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+E:\XFamily\Anka\workspaces\git\QuickWord\app\.metadata\.plugins\org.eclipse.jdt.core
+3034184939.index
+4245746652.index
+369194626.index

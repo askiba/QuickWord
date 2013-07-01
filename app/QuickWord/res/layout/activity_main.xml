@@ -14,20 +14,20 @@
         android:layout_height="wrap_content"
         android:onClick="addWord"
         android:text="@string/add_word"
-        android:textSize="28sp" />
+        android:textSize="24sp" />
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="learn"
         android:text="@string/learn"
-        android:textSize="28sp" />
+        android:textSize="24sp" />
     
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="download"
         android:text="@string/download"
-        android:textSize="28sp" />
+        android:textSize="24sp" />
         
 </LinearLayout>

@@ -6,5 +6,10 @@
     <string name="add_word">Add word</string>
 	<string name="learn">Learn</string>
 	<string name="download">Download words</string>
-	
+	<string name="enter_word">Enter word:</string>
+	<string name="word_translation">Word translation:</string>
+	<string name="word_synonimus">Word synonimus:</string>
+	<string name="load">Load synonimus and translation</string>
+	<string name="edit">Edit</string>
+	<string name="delete">Delete</string>
 </resources>
